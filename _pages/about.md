@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+    
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
-
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I'm an MD-PhD student being co-advised by Prof. Jeffrey Fessler and Prof. Jon-Frederick Nielsen at the University of Michigan in the department of Biomedical Engineering. My research interests include applying signal and image processing, computational imaging, and machine learning to diagnosis, prognosis, and therapeutics to improve patient outcomes. Clinincally, I'm interested in Neurology, specifically vascular neurology.
