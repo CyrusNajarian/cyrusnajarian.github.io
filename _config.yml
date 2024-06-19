@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cyrus P. Najarian"
   avatar           : "Headshot.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  bio              : "MD-PhD Student at University of Michigan <b>najariac@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
-  email            : #"rlobos@usc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=1C-oy8EAAAAJ&hl=en"
+  email            : "najariac@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
