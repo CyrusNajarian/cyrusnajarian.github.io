@@ -9,11 +9,11 @@ author_profile: true
   
 {% include base_path %}
 
-#<b>Preprints</b>
-#======
+<b>Preprints</b>
+======
 
-#<b>Technical Reports</b>
-#======
+<b>Technical Reports</b>
+======
 
 <b>Journal</b>
 ======
